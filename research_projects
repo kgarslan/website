@@ -1,0 +1,417 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Research Projects</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Kerem Görkem Arslan's</strong> Website</a>
+									<ul class="icons">
+										<li><a href="https://x.com/Kerem_G_Arslan" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.linkedin.com/in/keremgorkemarslan/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Research Projects</h1>
+									</header>
+
+
+									
+</head>
+<body>
+    
+									<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yan Yana Resim ve Yazı</title>
+    <style>
+        .content-container {
+            display: flex;
+            align-items: center; /* Dikey hizalama */
+            justify-content: space-between; /* Boşluk bırak */
+            gap: 20px; /* Yazı ile resim arasına boşluk bırakır */
+            max-width: 1000px; /* İçeriğin maksimum genişliği */
+            margin: 0 auto; /* Ortalamak için */
+        }
+
+        .text-content {
+            width: 60%; /* Yazının genişliği */
+        }
+
+        .image-content {
+            width: 40%; /* Resmin genişliği */
+            text-align: right; /* Resmi sağa yasla */
+        }
+
+        .image-content img {
+            max-width: 100%; /* Resmin taşmasını önler */
+            height: auto;
+            display: block;
+            border-radius: 10px; /* Hafif köşeleri yuvarlat */
+        }
+
+        @media (max-width: 768px) {
+            .content-container {
+                flex-direction: column; /* Küçük ekranlarda alt alta gelsin */
+                text-align: center;
+            }
+
+            .text-content, .image-content {
+                width: 100%;
+            }
+        }
+        p {
+            margin-bottom: 16px; /* Paragraflar arasında 16px boşluk bırakır */
+        }
+    
+    </style>
+
+	
+</head>
+<body>
+
+    <hr class="major" />
+
+    <div class="content-container">
+        <div class="text-content">
+            <h2>Au-delà des grandes religions. Comment penser les systèmes, les pratiques et les mouvements religieux minoritaires</h2>
+
+		<p>Editors: Elsa Cuillé and Juliette Lecorney</p>
+
+<p><b>Reference: Arslan, K. G. (2024). Identification et pratiques néopaïennes: Un phénomène syncrétique quasi invisible en Turquie (Identification and Neo-Pagan Practices: A Quasi-Invisible Syncretic Phenomenon in Turkey). <i>Revue des jeunes chercheurs de l’ITI HiSAAR</i>, 3, 11–46.</b>
+ </p>
+		
+		
+
+        </div>
+        <div class="image-content">
+           <img src="images/au_dela1.jpg" alt="paris">
+				<a href="images/audela2.png" class="button" target="_blank">More</a>
+</a>
+</div>
+    </div>
+
+
+</body>
+</html>
+
+
+
+									<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yan Yana Resim ve Yazı</title>
+    <style>
+        .content-container {
+            display: flex;
+            align-items: center; /* Dikey hizalama */
+            justify-content: space-between; /* Boşluk bırak */
+            gap: 20px; /* Yazı ile resim arasına boşluk bırakır */
+            max-width: 1000px; /* İçeriğin maksimum genişliği */
+            margin: 0 auto; /* Ortalamak için */
+        }
+
+        .text-content {
+            width: 60%; /* Yazının genişliği */
+        }
+
+        .image-content {
+            width: 40%; /* Resmin genişliği */
+            text-align: right; /* Resmi sağa yasla */
+        }
+
+        .image-content img {
+            max-width: 100%; /* Resmin taşmasını önler */
+            height: auto;
+            display: block;
+            border-radius: 10px; /* Hafif köşeleri yuvarlat */
+        }
+
+        @media (max-width: 768px) {
+            .content-container {
+                flex-direction: column; /* Küçük ekranlarda alt alta gelsin */
+                text-align: center;
+            }
+
+            .text-content, .image-content {
+                width: 100%;
+            }
+        }
+
+	     p {
+            margin: 0; /* Paragraflar arasındaki boşluğu sıfırlar */
+            padding: 0; /* İçerik etrafındaki boşluğu sıfırlar */
+        }
+    </style>
+</head>
+<body>
+    <hr class="major" />
+
+
+    <div class="content-container">
+        <div class="text-content">
+                        <h2>Çemberin Dışındakiler: Azınlıklar</h2>
+
+		<p>Editors: Elçin Macar</p>
+
+<p><b>Reference: Akgönül, S., & Arslan, K. G. (2024). Türkiye Rumları: Yüzyıllık Yok Oluş Süreci (Les Grecs de Turquie: Un processus d’extinction de 100 ans). In E. Macar (Ed.), <i>Çemberin Dışındakiler: Azınlıklar</i>. Tarih Vakfı Yayınları.
+</b>
+ </p>
+	</div>
+        <div class="image-content">
+             <img src="images/azınlıklar.jpg" alt="paris">
+				<a href="images/azınlıklar_1.png" class="button" target="_blank">More</a>
+        </div>
+    </div>
+
+    <hr class="major" />
+
+</body>
+</html>
+
+
+									<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yan Yana Resim ve Yazı</title>
+    <style>
+        .content-container {
+            display: flex;
+            align-items: center; /* Dikey hizalama */
+            justify-content: space-between; /* Boşluk bırak */
+            gap: 20px; /* Yazı ile resim arasına boşluk bırakır */
+            max-width: 1000px; /* İçeriğin maksimum genişliği */
+            margin: 0 auto; /* Ortalamak için */
+        }
+
+        .text-content {
+            width: 60%; /* Yazının genişliği */
+        }
+
+        .image-content {
+            width: 40%; /* Resmin genişliği */
+            text-align: right; /* Resmi sağa yasla */
+        }
+
+        .image-content img {
+            max-width: 100%; /* Resmin taşmasını önler */
+            height: auto;
+            display: block;
+            border-radius: 10px; /* Hafif köşeleri yuvarlat */
+        }
+
+        @media (max-width: 768px) {
+            .content-container {
+                flex-direction: column; /* Küçük ekranlarda alt alta gelsin */
+                text-align: center;
+            }
+
+            .text-content, .image-content {
+                width: 100%;
+            }
+        }
+	      p {
+            margin: 0; /* Paragraflar arasındaki boşluğu sıfırlar */
+            padding: 0; /* İçerik etrafındaki boşluğu sıfırlar */
+        }
+    </style>
+</head>
+<body>
+
+
+    <div class="content-container">
+        <div class="text-content">
+               <h2>Druidism, Tengrism, Taaraism: Current reactivations of ancient spiritualities and religions, from identity to politics</h2>
+
+		<p>Editors: Anne-Laure Zwilling, Samim Akgönül</p>
+
+<p><b>Reference: Arslan, K. G. (2024). Align the “Ancient One” with Our Lives: Analysing the Resurgence of An Ancient Cult to Shed Light on Contemporary Religiosity in Turkey. In S. Akgönul & A.-L. Zwilling (Eds.), <i>Druidism, Tengrism, Taaraism: Current Reactivations of Ancient Spiritualities and Religions, From Identity to Politics</i>, 87–109. Transnational Press London. </b>
+ </p>
+		</div>
+        <div class="image-content">
+ <img src="images/druidism.jpg" alt="paris">
+				<a href="images/druidism1.png" class="button" target="_blank">More</a>        </div>
+    </div>
+
+    <hr class="major" />
+
+</body>
+</html>
+										<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yan Yana Resim ve Yazı</title>
+    <style>
+        .content-container {
+            display: flex;
+            align-items: center; /* Dikey hizalama */
+            justify-content: space-between; /* Boşluk bırak */
+            gap: 20px; /* Yazı ile resim arasına boşluk bırakır */
+            max-width: 1000px; /* İçeriğin maksimum genişliği */
+            margin: 0 auto; /* Ortalamak için */
+        }
+
+        .text-content {
+            width: 60%; /* Yazının genişliği */
+        }
+
+        .image-content {
+            width: 40%; /* Resmin genişliği */
+            text-align: right; /* Resmi sağa yasla */
+        }
+
+        .image-content img {
+            max-width: 100%; /* Resmin taşmasını önler */
+            height: auto;
+            display: block;
+            border-radius: 10px; /* Hafif köşeleri yuvarlat */
+        }
+
+        @media (max-width: 768px) {
+            .content-container {
+                flex-direction: column; /* Küçük ekranlarda alt alta gelsin */
+                text-align: center;
+            }
+
+            .text-content, .image-content {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+
+    <div class="content-container">
+        <div class="text-content">
+            <h2>Cumhuriyetçilik ve Cumhuriyetler: Teoriyi Derinleştirmek, Pratiği Sorgulamak</h2>
+
+		<p>Editor: Selman Saç</p>
+
+<p><b>Reference: Akgönül, S., & Arslan, K. G. (2023). Laikliğin Üç Hâli: Fransa ve Türkiye Bağlamlarından Hareketle Devlet, Hukuk ve Toplum Açısından Din (Three Modes of Secularism: Religion from the Perspectives of the State, Law, and Society in the Contexts of France and Turkey). In S. Saç (Ed.), Cumhuriyetçilik ve Cumhuriyetler: Teoriyi Derinleştirmek, Pratiği Sorgulamak, 471–494. Nika Yayınevi.
+</b>
+ </p>
+        </div>
+        <div class="image-content">
+ <img src="images/cumhur.jpg" alt="paris">
+				<a href="images/cumhuriyetcilik-baskı.pdf" class="button" target="_blank">More</a>        </div>
+    </div>
+
+    <hr class="major" />
+
+</body>
+</html>
+
+							
+
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="about.me.html">About Me</a></li>
+										<li><a href="publications.html">Publıcatıons</a></li>
+										<li><a href="conference_paper_presentations.html">Conference Paper Presentations</a></li>
+										<li><a href="calls_for_papers.html">Calls for Papers</a></li>
+
+									</ul>
+								</nav>
+
+							<!-- Section -->
+								
+
+							<!-- Section -->
+								<section>
+    <header class="major">
+        <h2><i class="icon solid fa-envelope"></i> Get in Touch</h2>
+    </header>
+    <ul class="contact">
+										
+
+									
+<form
+  action="https://formspree.io/f/xpwqgknk"
+  method="POST"
+>
+	<label>Your name:
+        <input type="text" name="name" required>
+    </label>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
