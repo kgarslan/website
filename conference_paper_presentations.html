@@ -41,6 +41,80 @@
 <body>
 
 	
+
+	
+									<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yan Yana Resim ve Yazı</title>
+    <style>
+        .content-container {
+            display: flex;
+            align-items: center; /* Dikey hizalama */
+            justify-content: space-between; /* Boşluk bırak */
+            gap: 20px; /* Yazı ile resim arasına boşluk bırakır */
+            max-width: 1000px; /* İçeriğin maksimum genişliği */
+            margin: 0 auto; /* Ortalamak için */
+        }
+
+        .text-content {
+            width: 60%; /* Yazının genişliği */
+        }
+
+        .image-content {
+            width: 40%; /* Resmin genişliği */
+            text-align: right; /* Resmi sağa yasla */
+        }
+
+        .image-content img {
+            max-width: 100%; /* Resmin taşmasını önler */
+            height: auto;
+            display: block;
+            border-radius: 10px; /* Hafif köşeleri yuvarlat */
+        }
+
+        @media (max-width: 768px) {
+            .content-container {
+                flex-direction: column; /* Küçük ekranlarda alt alta gelsin */
+                text-align: center;
+            }
+
+            .text-content, .image-content {
+                width: 100%;
+            }
+        }
+
+	     p {
+            margin: 0; /* Paragraflar arasındaki boşluğu sıfırlar */
+            padding: 0; /* İçerik etrafındaki boşluğu sıfırlar */
+        }
+    </style>
+</head>
+<body>
+    <hr class="major" />
+
+
+    <div class="content-container">
+        <div class="text-content">
+            <h2>10th Biennial Conference of the European Society for the Study of Western Esotericism</h2>
+            <p><b>Presentation Title : Crafting Secularized Religious and Spiritual Identities in the Turkish Context </b>
+ </p>
+		
+<p>28.06.2025 09:00-11:00</p> <p>Vilnius University</p> 
+<p>Organized by ESSWE</p>
+	</div>
+        <div class="image-content">
+            <img src="images/esotericism.png" alt="nevruz">
+			<a href="images/esotericism.pdf" class="button" target="_blank">More</a>
+
+        </div>
+    </div>
+
+</body>
+</html>
+	
 									<!DOCTYPE html>
 <html lang="tr">
 <head>
